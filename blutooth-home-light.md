@@ -127,7 +127,7 @@ When the Bluetooth application's button turns ON, it sets the home light ON, and
 
 
 
-<img src="https://github.com/Sajeev-07/bluetooth-home-light/blob/main/pictures/blutooth-connect.jpg?raw=true" width="" alt="alt_text" title="image_tooltip">
+<img src="https://github.com/Sajeev-07/bluetooth-home-light/blob/main/pictures/blutooth-connect.jpg?raw=true" width="298.56" height="218.88" alt="alt_text" title="image_tooltip">
 
 </p>
 <p>
@@ -165,7 +165,7 @@ The connection or interfacing of the module is as follows:
 
             
 
-<img src="https://github.com/Sajeev-07/bluetooth-home-light/blob/main/pictures/relay.jpg?raw=true" width="" alt="alt_text" title="image_tooltip">
+<img src="https://github.com/Sajeev-07/bluetooth-home-light/blob/main/pictures/relay.jpg?raw=true" width="288" height="136.32" alt="alt_text" title="image_tooltip">
 
 </p>
 <p>
