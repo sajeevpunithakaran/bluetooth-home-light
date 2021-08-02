@@ -191,7 +191,7 @@ The following figure shows the relay module pinout.
 
 
 
-<img src="https://github.com/Sajeev-07/bluetooth-home-light/blob/main/pictures/relay-pinouts.jpg?raw=true" width="" alt="alt_text" title="image_tooltip">
+<img src="https://github.com/Sajeev-07/bluetooth-home-light/blob/main/pictures/relay-pinouts.jpg?raw=true" width="260.16" height="187.2" alt="alt_text" title="image_tooltip">
 
 </p>
 <p>
@@ -209,11 +209,11 @@ The high-voltage side has two connectors, each with three sockets: common(COM), 
 
 
 
-<img src="https://github.com/Sajeev-07/bluetooth-home-light/blob/main/pictures/normally-open.jpg?raw=true" width="" alt="alt_text" title="image_tooltip">
+<img src="https://github.com/Sajeev-07/bluetooth-home-light/blob/main/pictures/normally-open.jpg?raw=true" width="260.16" height="187.2" alt="alt_text" title="image_tooltip">
 
 
 
-<img src="https://github.com/Sajeev-07/bluetooth-home-light/blob/main/pictures/normally-close.jpg?raw=true" width="" alt="alt_text" title="image_tooltip">
+<img src="https://github.com/Sajeev-07/bluetooth-home-light/blob/main/pictures/normally-close.jpg?raw=true" width="265.16" height="187.2" alt="alt_text" title="image_tooltip">
 
 </p>
 <p>
@@ -242,7 +242,7 @@ The low-voltage side has a set of four pins and a set of three pins.
 
 
 
-<img src="https://github.com/Sajeev-07/bluetooth-home-light/blob/main/pictures/relay-pin.png?raw=true" width="" alt="alt_text" title="image_tooltip">
+<img src="https://github.com/Sajeev-07/bluetooth-home-light/blob/main/pictures/relay-pin.png?raw=true" width="368.64" height="192.96" alt="alt_text" title="image_tooltip">
 
 </p>
 <p>
@@ -354,33 +354,31 @@ You need an app (<a href="https://play.google.com/store/apps/details?id=com.dark
 <strong>     </strong>
 
 
-<img src="https://github.com/Sajeev-07/bluetooth-home-light/blob/main/pictures/app01.png?raw=true" width="" alt="alt_text" title="image_tooltip">
+<img src="https://github.com/Sajeev-07/bluetooth-home-light/blob/main/pictures/app01.png?raw=true" width="181.56" height= "234.04" alt="alt_text" title="image_tooltip">
 
 
 
-<img src="https://github.com/Sajeev-07/bluetooth-home-light/blob/main/pictures/app02.png?raw=true" width="" alt="alt_text" title="image_tooltip">
+<img src="https://github.com/Sajeev-07/bluetooth-home-light/blob/main/pictures/app02.png?raw=true"  width="181.56" height= "234.04" alt="alt_text" title="image_tooltip">
 
 
-<p id="gdcalert14" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image12.png). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert15">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
 
-
-<img src="https://github.com/Sajeev-07/bluetooth-home-light/blob/main/pictures/app03.png?raw=true" width="" alt="alt_text" title="image_tooltip">
+<img src="https://github.com/Sajeev-07/bluetooth-home-light/blob/main/pictures/app03.png?raw=true"  width="181.56" height= "234.04" alt="alt_text" title="image_tooltip">
 
 </p>
 <p>
 
 
-<img src="https://github.com/Sajeev-07/bluetooth-home-light/blob/main/pictures/app04.png?raw=true" width="" alt="alt_text" title="image_tooltip">
+<img src="https://github.com/Sajeev-07/bluetooth-home-light/blob/main/pictures/app04.png?raw=true" width="181.56" height= "234.04" alt="alt_text" title="image_tooltip">
 
 
 
-<img src="https://github.com/Sajeev-07/bluetooth-home-light/blob/main/pictures/app05.png?raw=true" width="" alt="alt_text" title="image_tooltip">
+<img src="https://github.com/Sajeev-07/bluetooth-home-light/blob/main/pictures/app05.png?raw=true"  width="181.56" height= "234.04" alt="alt_text" title="image_tooltip">
 
 </p>
 <p>
 <strong>Connection :-</strong>
 
-<img src="https://github.com/Sajeev-07/bluetooth-home-light/blob/main/pictures/circuit.jpg?raw=true" width="" alt="alt_text" title="image_tooltip">
+<img src="https://github.com/Sajeev-07/bluetooth-home-light/blob/main/pictures/circuit.jpg?raw=true"  idth="640.32" height="486.72" alt="alt_text" title="image_tooltip">
 <strong>                           </strong>
 </p>
 <p>
@@ -394,32 +392,32 @@ Here we are going to use a line board instead of the breadboard.we have to solde
 
 
 
-<img src="https://github.com/Sajeev-07/bluetooth-home-light/blob/main/pictures/pcb1.jpg?raw=true" width="" alt="alt_text" title="image_tooltip">
+<img src="https://github.com/Sajeev-07/bluetooth-home-light/blob/main/pictures/pcb1.jpg?raw=true" width="104.64" height="104.64" alt="alt_text" title="image_tooltip">
 
 
 
-<img src="https://github.com/Sajeev-07/bluetooth-home-light/blob/main/pictures/pcb2.jpg?raw=true" width="" alt="alt_text" title="image_tooltip">
+<img src="https://github.com/Sajeev-07/bluetooth-home-light/blob/main/pictures/pcb2.jpg?raw=true" width="104.64" height="104.64" alt="alt_text" title="image_tooltip">
 
 
 
-<img src="https://github.com/Sajeev-07/bluetooth-home-light/blob/main/pictures/pcb3.jpg?raw=true" width="" alt="alt_text" title="image_tooltip">
+<img src="https://github.com/Sajeev-07/bluetooth-home-light/blob/main/pictures/pcb3.jpg?raw=true" width="104.64" height="104.64" alt="alt_text" title="image_tooltip">
 
 
-<img src="https://github.com/Sajeev-07/bluetooth-home-light/blob/main/pictures/pcb4.jpg?raw=true" width="" alt="alt_text" title="image_tooltip">
+<img src="https://github.com/Sajeev-07/bluetooth-home-light/blob/main/pictures/pcb4.jpg?raw=true" width="104.64" height="104.64" alt="alt_text" title="image_tooltip">
 
 
 
-<img src="https://github.com/Sajeev-07/bluetooth-home-light/blob/main/pictures/pcb5.jpg?raw=true" width="" alt="alt_text" title="image_tooltip">
+<img src="https://github.com/Sajeev-07/bluetooth-home-light/blob/main/pictures/pcb5.jpg?raw=true" width="104.64" height="104.64" alt="alt_text" title="image_tooltip">
 
 </p>
 <p>
 
 
-<img src="https://github.com/Sajeev-07/bluetooth-home-light/blob/main/pictures/final.jpg?raw=true" width="" alt="alt_text" title="image_tooltip">
+<img src="https://github.com/Sajeev-07/bluetooth-home-light/blob/main/pictures/final.jpg?raw=true" width="255.68"  height="202.56" alt="alt_text" title="image_tooltip">
 
 
 
-<img src="https://github.com/Sajeev-07/bluetooth-home-light/blob/main/pictures/final1.jpg?raw=true" width="" alt="alt_text" title="image_tooltip">
+<img src="https://github.com/Sajeev-07/bluetooth-home-light/blob/main/pictures/final1.jpg?raw=true" width="255.68"  height="202.56" alt="alt_text" title="image_tooltip">
 
 </p>
 <p>
