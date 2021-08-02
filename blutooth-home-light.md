@@ -25,38 +25,6 @@ Inline drawings not supported: look for ">>>>>  gd2md-html alert:  inline drawin
 
 ----->
 
-
-<p style="color: red; font-weight: bold">>>>>>  gd2md-html alert:  ERRORs: 0; WARNINGs: 1; ALERTS: 24.</p>
-<ul style="color: red; font-weight: bold"><li>See top comment block for details on ERRORs and WARNINGs. <li>In the converted Markdown or HTML, search for inline alerts that start with >>>>>  gd2md-html alert:  for specific instances that need correction.</ul>
-
-<p style="color: red; font-weight: bold">Links to alert messages:</p><a href="#gdcalert1">alert1</a>
-<a href="#gdcalert2">alert2</a>
-<a href="#gdcalert3">alert3</a>
-<a href="#gdcalert4">alert4</a>
-<a href="#gdcalert5">alert5</a>
-<a href="#gdcalert6">alert6</a>
-<a href="#gdcalert7">alert7</a>
-<a href="#gdcalert8">alert8</a>
-<a href="#gdcalert9">alert9</a>
-<a href="#gdcalert10">alert10</a>
-<a href="#gdcalert11">alert11</a>
-<a href="#gdcalert12">alert12</a>
-<a href="#gdcalert13">alert13</a>
-<a href="#gdcalert14">alert14</a>
-<a href="#gdcalert15">alert15</a>
-<a href="#gdcalert16">alert16</a>
-<a href="#gdcalert17">alert17</a>
-<a href="#gdcalert18">alert18</a>
-<a href="#gdcalert19">alert19</a>
-<a href="#gdcalert20">alert20</a>
-<a href="#gdcalert21">alert21</a>
-<a href="#gdcalert22">alert22</a>
-<a href="#gdcalert23">alert23</a>
-<a href="#gdcalert24">alert24</a>
-
-<p style="color: red; font-weight: bold">>>>>> PLEASE check and correct alert issues and delete this message and the inline alerts.<hr></p>
-
-
 <h1><strong>Bluetooth Controlled home light (Bulb)</strong></h1>
 
 
@@ -66,16 +34,11 @@ Inline drawings not supported: look for ">>>>>  gd2md-html alert:  inline drawin
 <p>
 
 
-<p id="gdcalert1" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image1.jpg). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert2">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
+<img src="https://github.com/Sajeev-07/bluetooth-home-light/blob/main/pictures/compenents.jpg?raw=true" width=" 424.32" height="290.88" alt="alt_text" title="image_tooltip">
 
 
-<img src="images/image1.jpg" width="" alt="alt_text" title="image_tooltip">
 
-
-<p id="gdcalert2" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline drawings not supported directly from Docs. You may want to copy the inline drawing to a standalone drawing and export by reference. See <a href="https://github.com/evbacher/gd2md-html/wiki/Google-Drawings-by-reference">Google Drawings by reference</a> for details. The img URL below is a placeholder. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert3">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
-
-
-<img src="https://docs.google.com/drawings/d/12345/export/png" width="80%" alt="drawing">
+<img src="https://github.com/Sajeev-07/bluetooth-home-light/blob/main/pictures/Bluetooth%20Controlled%20240V%20Bulb%20(1).jpg?raw=true" width="188.16" height="290.88" alt="drawing">
 
 </p>
 <p>
@@ -120,10 +83,8 @@ After collecting the components, let's start to implement it on a breadboard.
 
                 
 
-<p id="gdcalert3" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image2.png). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert4">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
 
-
-<img src="images/image2.png" width="" alt="alt_text" title="image_tooltip">
+<img style = "justified" src="https://github.com/Sajeev-07/bluetooth-home-light/blob/main/pictures/bluetooth%20module.png?raw=true" width="" alt="alt_text" title="image_tooltip">
 
 </p>
 <p>
@@ -141,10 +102,9 @@ Module.
 <p>
 
 
-<p id="gdcalert4" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline drawings not supported directly from Docs. You may want to copy the inline drawing to a standalone drawing and export by reference. See <a href="https://github.com/evbacher/gd2md-html/wiki/Google-Drawings-by-reference">Google Drawings by reference</a> for details. The img URL below is a placeholder. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert5">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
 
 
-<img src="https://docs.google.com/drawings/d/12345/export/png" width="80%" alt="drawing">
+<img src="https://github.com/Sajeev-07/bluetooth-home-light/blob/main/pictures/diagram.jpg?raw=true" width="637.44" height="107.52" alt="drawing">
 
 </p>
 <p>
@@ -159,16 +119,15 @@ When the Bluetooth application's button turns ON, it sets the home light ON, and
 <p>
 
 
-<p id="gdcalert5" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image3.jpg). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert6">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
 
 
-<img src="images/image3.jpg" width="" alt="alt_text" title="image_tooltip">
+<img src="https://github.com/Sajeev-07/bluetooth-home-light/blob/main/pictures/blutooth-connect2.jpg?raw=true" width="298.56" height="218.88" alt="alt_text" title="image_tooltip">
 
 
-<p id="gdcalert6" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image4.jpg). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert7">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
 
 
-<img src="images/image4.jpg" width="" alt="alt_text" title="image_tooltip">
+
+<img src="https://github.com/Sajeev-07/bluetooth-home-light/blob/main/pictures/blutooth-connect.jpg?raw=true" width="" alt="alt_text" title="image_tooltip">
 
 </p>
 <p>
@@ -206,10 +165,7 @@ The connection or interfacing of the module is as follows:
 
             
 
-<p id="gdcalert7" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image5.jpg). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert8">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
-
-
-<img src="images/image5.jpg" width="" alt="alt_text" title="image_tooltip">
+<img src="https://github.com/Sajeev-07/bluetooth-home-light/blob/main/pictures/relay.jpg?raw=true" width="" alt="alt_text" title="image_tooltip">
 
 </p>
 <p>
@@ -233,10 +189,9 @@ The following figure shows the relay module pinout.
 <p>
              
 
-<p id="gdcalert8" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image6.jpg). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert9">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
 
 
-<img src="images/image6.jpg" width="" alt="alt_text" title="image_tooltip">
+<img src="https://github.com/Sajeev-07/bluetooth-home-light/blob/main/pictures/relay-pinouts.jpg?raw=true" width="" alt="alt_text" title="image_tooltip">
 
 </p>
 <p>
@@ -251,16 +206,14 @@ The high-voltage side has two connectors, each with three sockets: common(COM), 
 <p>
 
 
-<p id="gdcalert9" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image7.jpg). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert10">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
 
 
-<img src="images/image7.jpg" width="" alt="alt_text" title="image_tooltip">
+
+<img src="https://github.com/Sajeev-07/bluetooth-home-light/blob/main/pictures/normally-open.jpg?raw=true" width="" alt="alt_text" title="image_tooltip">
 
 
-<p id="gdcalert10" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image8.jpg). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert11">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
 
-
-<img src="images/image8.jpg" width="" alt="alt_text" title="image_tooltip">
+<img src="https://github.com/Sajeev-07/bluetooth-home-light/blob/main/pictures/normally-close.jpg?raw=true" width="" alt="alt_text" title="image_tooltip">
 
 </p>
 <p>
@@ -287,12 +240,9 @@ The low-voltage side has a set of four pins and a set of three pins.
 </p>
 <p>
 
-        
-
-<p id="gdcalert11" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image9.png). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert12">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
 
 
-<img src="images/image9.png" width="" alt="alt_text" title="image_tooltip">
+<img src="https://github.com/Sajeev-07/bluetooth-home-light/blob/main/pictures/relay-pin.png?raw=true" width="" alt="alt_text" title="image_tooltip">
 
 </p>
 <p>
@@ -403,46 +353,34 @@ You need an app (<a href="https://play.google.com/store/apps/details?id=com.dark
 <p>
 <strong>     </strong>
 
-<p id="gdcalert12" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image10.png). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert13">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
+
+<img src="https://github.com/Sajeev-07/bluetooth-home-light/blob/main/pictures/app01.png?raw=true" width="" alt="alt_text" title="image_tooltip">
 
 
-<img src="images/image10.png" width="" alt="alt_text" title="image_tooltip">
 
-
-<p id="gdcalert13" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image11.png). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert14">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
-
-
-<img src="images/image11.png" width="" alt="alt_text" title="image_tooltip">
+<img src="https://github.com/Sajeev-07/bluetooth-home-light/blob/main/pictures/app02.png?raw=true" width="" alt="alt_text" title="image_tooltip">
 
 
 <p id="gdcalert14" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image12.png). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert15">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
 
 
-<img src="images/image12.png" width="" alt="alt_text" title="image_tooltip">
+<img src="https://github.com/Sajeev-07/bluetooth-home-light/blob/main/pictures/app03.png?raw=true" width="" alt="alt_text" title="image_tooltip">
 
 </p>
 <p>
 
 
-<p id="gdcalert15" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image13.png). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert16">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
+<img src="https://github.com/Sajeev-07/bluetooth-home-light/blob/main/pictures/app04.png?raw=true" width="" alt="alt_text" title="image_tooltip">
 
 
-<img src="images/image13.png" width="" alt="alt_text" title="image_tooltip">
 
-
-<p id="gdcalert16" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image14.png). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert17">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
-
-
-<img src="images/image14.png" width="" alt="alt_text" title="image_tooltip">
+<img src="https://github.com/Sajeev-07/bluetooth-home-light/blob/main/pictures/app05.png?raw=true" width="" alt="alt_text" title="image_tooltip">
 
 </p>
 <p>
 <strong>Connection :-</strong>
 
-<p id="gdcalert17" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image15.jpg). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert18">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
-
-
-<img src="images/image15.jpg" width="" alt="alt_text" title="image_tooltip">
+<img src="https://github.com/Sajeev-07/bluetooth-home-light/blob/main/pictures/circuit.jpg?raw=true" width="" alt="alt_text" title="image_tooltip">
 <strong>                           </strong>
 </p>
 <p>
@@ -454,49 +392,34 @@ Here we are going to use a line board instead of the breadboard.we have to solde
 <p>
 
 
-<p id="gdcalert18" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image16.jpg). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert19">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
 
 
-<img src="images/image16.jpg" width="" alt="alt_text" title="image_tooltip">
+<img src="https://github.com/Sajeev-07/bluetooth-home-light/blob/main/pictures/pcb1.jpg?raw=true" width="" alt="alt_text" title="image_tooltip">
 
 
-<p id="gdcalert19" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image17.jpg). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert20">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
+
+<img src="https://github.com/Sajeev-07/bluetooth-home-light/blob/main/pictures/pcb2.jpg?raw=true" width="" alt="alt_text" title="image_tooltip">
 
 
-<img src="images/image17.jpg" width="" alt="alt_text" title="image_tooltip">
+
+<img src="https://github.com/Sajeev-07/bluetooth-home-light/blob/main/pictures/pcb3.jpg?raw=true" width="" alt="alt_text" title="image_tooltip">
 
 
-<p id="gdcalert20" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image18.jpg). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert21">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
+<img src="https://github.com/Sajeev-07/bluetooth-home-light/blob/main/pictures/pcb4.jpg?raw=true" width="" alt="alt_text" title="image_tooltip">
 
 
-<img src="images/image18.jpg" width="" alt="alt_text" title="image_tooltip">
 
-
-<p id="gdcalert21" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image19.jpg). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert22">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
-
-
-<img src="images/image19.jpg" width="" alt="alt_text" title="image_tooltip">
-
-
-<p id="gdcalert22" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image20.jpg). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert23">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
-
-
-<img src="images/image20.jpg" width="" alt="alt_text" title="image_tooltip">
+<img src="https://github.com/Sajeev-07/bluetooth-home-light/blob/main/pictures/pcb5.jpg?raw=true" width="" alt="alt_text" title="image_tooltip">
 
 </p>
 <p>
 
 
-<p id="gdcalert23" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image21.jpg). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert24">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
+<img src="https://github.com/Sajeev-07/bluetooth-home-light/blob/main/pictures/final.jpg?raw=true" width="" alt="alt_text" title="image_tooltip">
 
 
-<img src="images/image21.jpg" width="" alt="alt_text" title="image_tooltip">
 
-
-<p id="gdcalert24" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image22.jpg). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert25">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
-
-
-<img src="images/image22.jpg" width="" alt="alt_text" title="image_tooltip">
+<img src="https://github.com/Sajeev-07/bluetooth-home-light/blob/main/pictures/final1.jpg?raw=true" width="" alt="alt_text" title="image_tooltip">
 
 </p>
 <p>
