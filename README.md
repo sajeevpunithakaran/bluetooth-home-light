@@ -27,6 +27,32 @@ Inline drawings not supported: look for ">>>>>  gd2md-html alert:  inline drawin
 
 <h1><strong>Bluetooth Controlled home light (Bulb)</strong></h1>
 
+<p>
+Hello…
+
+Nowadays Most of the equipment which is used in our life is being controlled by our smartphones. So we can make our work easy and we can use this things in many ways. This project is all about building the most simplified home automation device using an arduino and a bluetooth module. This one is very easy to build and it can be built in a few hours. In my version which I'm explaining right here, I can control home appliances using my Android smartphone. Let's have a look at the list of materials and tools you'll need.
+</p>
+
+<img src="https://github.com/Sajeev-07/bluetooth-home-light/blob/main/pictures/final.jpg?raw=true" width="255.68"  height="202.56" alt="alt_text" title="image_tooltip">
+
+
+
+<img src="https://github.com/Sajeev-07/bluetooth-home-light/blob/main/pictures/final1.jpg?raw=true" width="255.68"  height="202.56" alt="alt_text" title="image_tooltip">
+
+</p>
+
+<p><strong>Author</strong></p>
+
+<p>
+Sajeev Punithakaran
+</p>
+
+<p><strong>Acknowledgment</strong></p>
+
+<ul>
+      <li>Aravith Panch , Co-founder and Director of Innovation, DreamSpace Academy , Batticaloa , Sri Lanka.</li>
+      <li>Kishoh Navaretnarjah , Co-founder and Director, DreamSpace Academy.</li>
+</ul>
 
 <p>
 <strong>Step 1 : Collecting components</strong>
@@ -45,14 +71,13 @@ Inline drawings not supported: look for ">>>>>  gd2md-html alert:  inline drawin
 Here we’re going to make a bluetooth control  240V Bulb by using an Arduino UNO.So let's collect the required components as I mentioned above before building the Circuit.
 </p>
 <p>
-The components are :
+<strong>The components are :</strong>
 </p>
-<p>
-<strong>Hardware Requirements :                                        Software Requirements  </strong>
-</p>
-<ul>
 
-<li>Arduino UNO	 - 1					* Arduino Software
+
+<ol>
+
+<li>Arduino UNO	 - 1
 
 <li>HC-06 Bluetooth module - 1
 
@@ -72,7 +97,7 @@ The components are :
 
 <li>Jumper wires as we required
 </li>
-</ul>
+</ol>
 <p>
 After collecting the components, let's start to implement it on a breadboard.
 </p>
@@ -278,59 +303,45 @@ The second set of pins consists of <strong>GND</strong>, <strong>VCC</strong>, a
 <p>
 Compile and upload your code into the Arduino device using Arduino USB cable. While uploading the code try  to disconnect other components from Arduino.
 </p>
-<p>
+
+
+```
+
 char Incoming_value = 0;
-</p>
-<p>
+
 void setup() {
-</p>
-<p>
   Serial.begin(9600);
-</p>
-<p>
+
   pinMode(13, OUTPUT);
-</p>
-<p>
+
   }
-</p>
-<p>
+
     void loop() {
-</p>
-<p>
+
     if(Serial.available() > 0)
-</p>
-<p>
+
     {
-</p>
-<p>
+
       Incoming_value = Serial.read();
-</p>
-<p>
+
       Serial.print(Incoming_value);
-</p>
-<p>
+
       Serial.print("\n");
-</p>
-<p>
+
       if (Incoming_value == 'a')
-</p>
-<p>
+
         digitalWrite(13, HIGH);
-</p>
-<p>
+
       else if (Incoming_value == 'b')
-</p>
-<p>
+
          digitalWrite(13, LOW);
-</p>
-<p>
       }
-</p>
-<p>
+
 }
-</p>
+```
+
 <p>
-<strong>Home Automation App</strong>
+<strong>Home Automation App : </strong>
 </p>
 <p>
 You need an app (<a href="https://play.google.com/store/apps/details?id=com.darkbrothers.automation&hl=en_IN">download here</a>) to control the Home appliances using Bluetooth. After downloading follow these steps to add a Room and components.
@@ -376,11 +387,11 @@ You need an app (<a href="https://play.google.com/store/apps/details?id=com.dark
 
 </p>
 <p>
-<strong>Connection :-</strong>
+<strong>Connection : </strong>
+</p>
 
 <img src="https://github.com/Sajeev-07/bluetooth-home-light/blob/main/pictures/circuit.jpg?raw=true"  idth="640.32" height="486.72" alt="alt_text" title="image_tooltip">
-<strong>                           </strong>
-</p>
+
 <p>
 <strong>If it works on the breadboard, let's make the project on a line board with the same components.</strong>
 </p>
@@ -407,19 +418,10 @@ Here we are going to use a line board instead of the breadboard.we have to solde
 
 
 
-<img src="https://github.com/Sajeev-07/bluetooth-home-light/blob/main/pictures/pcb5.jpg?raw=true" width="104.64" height="104.64" alt="alt_text" title="image_tooltip">
+<img src="https://github.com/Sajeev-07/bsluetooth-home-light/blob/main/pictures/pcb5.jpg?raw=true" width="104.64" height="104.64" alt="alt_text" title="image_tooltip">
 
 </p>
-<p>
 
-
-<img src="https://github.com/Sajeev-07/bluetooth-home-light/blob/main/pictures/final.jpg?raw=true" width="255.68"  height="202.56" alt="alt_text" title="image_tooltip">
-
-
-
-<img src="https://github.com/Sajeev-07/bluetooth-home-light/blob/main/pictures/final1.jpg?raw=true" width="255.68"  height="202.56" alt="alt_text" title="image_tooltip">
-
-</p>
 <p>
 <strong>Thank you...</strong>
 </p>
